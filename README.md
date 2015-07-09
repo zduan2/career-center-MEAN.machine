@@ -19,15 +19,11 @@ It is for these reasons that the Career Center would like a user friendly web ap
 ## Change Log
 - v0.1 Birth of the initial README.md
 
+## High-Level Tasks
+https://github.com/asu-cis440-summer/career-center-MEAN.machine/blob/master/highleveltasks.md
+
 ## Product Back Log
 https://github.com/asu-cis440-summer/career-center-MEAN.machine/blob/master/productbacklog.md
 
 ## Secondary/Future Features
-1.    Badge system – collect and earn prizes
-2.    Gamification (earn points for real prizes
-3.    Social sharing
-4.    Push notifications (mobile only)
-5.    Add to calendar option (Mobile only)
-6.    Track apt. history through career center
-        a.    Reminders
-7.    Fast fact sheet as a resource under the more tools section
+https://github.com/asu-cis440-summer/career-center-MEAN.machine/blob/master/futurefeatures.md
