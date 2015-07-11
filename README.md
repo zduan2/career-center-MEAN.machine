@@ -12,7 +12,7 @@ It is for these reasons that the Career Center would like a user friendly web ap
 - Kawika Bader - kawikabader
 - Ben Behrend - bbehr
 - Donna Tabique - donnatabique
-- Jaime Wallits - jwallits
+- Jaime Wallitschek - jwallits
 - Zhengping - zduan2
 
 
